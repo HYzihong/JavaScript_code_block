@@ -1,7 +1,7 @@
 <!--
  * @Author: HYzihong
  * @Date: 2021-04-02 16:04:41
- * @LastEditTime: 2021-04-02 16:48:27
+ * @LastEditTime: 2021-04-08 20:25:43
  * @LastEditors: Please set LastEditors
  * @Description: README
  * @FilePath: /JavaScript_code_block/README.md
@@ -17,6 +17,10 @@
 
 src
 ├── array
+│   ├── intersection 数组的交集
+│   │   ├── __test__
+│   │   │   └── newSet.spec.ts
+│   │   └── newSet.ts 使用数据结构Set
 │   ├── merge_array 数组合并
 │   │   ├── __test__
 │   │   │   └── destructuring.spec.ts
